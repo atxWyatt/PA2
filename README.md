@@ -1,2 +1,1 @@
-# PA2
-programming assignment 2
+good ol' repository
